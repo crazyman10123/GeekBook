@@ -1,2 +1,4 @@
 # GeekBook
  A Poorly Written and Horribly Insecure Social Network
+
+While it may be a terrible idea to publish this, I wrote this when I was 14 so at this point I've stopped caring. This is a "social network" that I worked on my freshman year of high school. This was my first endeavor into PHP, so it is going to be messy and I am not really sorry about that. It started as a simple image hosting site and grew into a horribly insecure social network. I do not have the original database structures for this saved, and I can't guarantee any of this code still works. Maybe some of the queries in here can be used to teach people what not to do though.
